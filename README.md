@@ -9,9 +9,12 @@ Meu portifólio de projetos Data Science
 # Marlene Bertoldo
 <sub>*Professora de português e inglês na escola pública e estudante de Data Science</sub>
 
-Sou apaixonada pela minha profissão, mas sempre me preocupou o fato do engessamento de conteúdos e da obediência não questionáviel pela maioria, discordo de ensinar uma visão de túnel onde os alunos não ampliam sua visão horizontal. Seguindo essa lógica busco abrir a cortina de fumaça e mostrar para meus estudantes que podemos mudar as nossa visão de mundo e através do conhecimento construir uma nova realidade.
+Sou apaixonada pela minha profissão, mas sempre me preocupou o fato do engessamento de conteúdos e da obediência não questionáviel pela maioria, discordo de ensinar uma visão de túnel onde os alunos não ampliam sua visão horizontal. Seguindo essa lógica busco abrir a cortina de fumaça e mostrar para meus estudantes que podemos mudar as nossa visão de mundo e através do conhecimento construir uma nova realidade, onde possamos exercer nosso pensamento crítico e defender nosso ponto de vista com embasamento de autoridade.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+
+   ecrinhasMy credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFAM
+   minhas credenciais
+   
 
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
