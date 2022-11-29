@@ -14,8 +14,6 @@ Sou apaixonada pela minha profissão, mas sempre me preocupou o fato do engessam
 Minhas credenciais incluem Graduação em Letras Português e Inglês pelo Instituto Federal do Paraná (IFPR). Especialização em Metodologia no Ensino de Língua Portuguesa pela Universidade Guairacá- Guarapuava-PR.
 
 
-*Background:
-
 **Links:**
 * [GitHub](https://github.com/marlenebertoldo)
 * [LinkedIn]()
