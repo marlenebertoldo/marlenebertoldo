@@ -11,6 +11,8 @@ Meu portifólio de projetos Data Science
 
 Sou apaixonada pela minha profissão, mas sempre me preocupou o fato do engessamento de conteúdos e da obediência não questionáviel pela maioria, discordo de ensinar uma visão de túnel onde os alunos não ampliam sua visão horizontal. Seguindo essa lógica busco abrir a cortina de fumaça e mostrar para meus estudantes que podemos mudar as nossa visão de mundo e através do conhecimento construir uma nova realidade, onde possamos exercer nosso pensamento crítico e defender nosso ponto de vista com embasamento de autoridade.
 
+Minhas credenciais incluem Graduação em Letras Português e Inglês pelo Instituto Federal do Paraná (IFPR). Especialização pela Universidade Guairacá- Guarapuava-PR. 
+
 **Background in:** .
 
 **Links:**
