@@ -1,5 +1,4 @@
-
-#Meu portifólio de projetos Data Science
+Meu portifólio de projetos Data Science
 [![author](https://img.shields.io/badge/author-marlenebertoldo-crimson.svg)](https://github.com/marlenebertoldo)[![](https://img.shields.io/badge/python-3.7+-mediumblue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-steelblue.svg)](http://perso.crans.org/besson/LICENSE.html)   [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://medium.com/@marleneamaralbertoldo)
 
 <p align="center">
