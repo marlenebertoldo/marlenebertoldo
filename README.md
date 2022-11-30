@@ -9,7 +9,7 @@ Meu portifólio de projetos Data Science
 # Marlene Apª do Amaral Bertoldo
 <sub>*Professora de português e inglês na escola pública, estudante de Data Science e Python</sub>
 
-Sou apaixonada pela minha profissão, mas sempre me preocupou o fato do engessamento no ensino e da obediência não questionáviel, discordo de ensinar com base em uma metodologia de túnel que não proporciona aos discentes uma visão horizontal. Seguindo essa lógica, busco abrir a cortina de fumaça e mostrar para meus estudantes que podemos mudar a nossa visão de mundo e através do conhecimento construir uma nova realidade na qual possamos exercer nosso pensamento crítico e defender nosso ponto de vista com embasamentos de autoridade.
+Sou apaixonada pela minha profissão, mas sempre me preocupou o fato do engessamento no ensino e da obediência não questionáviel, discordo de ensinar com base em uma metodologia de túnel que não proporciona aos discentes uma visão horizontal. Seguindo essa lógica, busco trabalhar com ferramentas tecnológicas e diversificar as metodologias para  ensinar meus estudantes que podemos mudar a nossa visão de mundo através do conhecimento, bem como acompanhar a metamorfose social, filtrando informações que possam ajudar a construir uma nova realidade na qual possamos exercer nosso pensamento crítico e defender nosso ponto de vista com embasamentos de autoridade.
 
 Minhas credenciais incluem Graduação em Letras Português e Inglês pelo Instituto Federal do Paraná (IFPR). Especialização em Metodologia no Ensino de Língua Portuguesa pela Universidade Guairacá- Guarapuava-PR.
 
