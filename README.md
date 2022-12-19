@@ -7,8 +7,9 @@ Meu portifólio de projetos Data Science
 
 <h4>Marlene Apª do Amaral Bertoldo</h4><h4>Professora de português e inglês na escola pública</h4>
 <h4><img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Estudante de Data Science e Python</h4>
-<a href = "youtube:https://www.youtube.com/@CarlosMeloSigmoidal"><img src="https://img.shields.io/badge/-Sigmoidal-2c73a2?style=for-the-badge&logo=youtubel&logoColor=white" target="_blank"></a>
-
+<div> 
+  <a href="https://www.youtube.com/@CarlosMeloSigmoidal/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+</div>
 
 
 
