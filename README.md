@@ -14,8 +14,8 @@ Minhas credenciais incluem Graduação em Letras Português e Inglês pelo Insti
 
 
 
-<a href="https://instagram.com/bertoldo_marla" target="_blank"><img src="https://img.shields.io/badge/-Instagram-darkblue.svg?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://(https://github.com/marlenebertoldo)/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/GitHub-4682b4?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<a href="https://instagram.com/bertoldo_marla" target="_blank"><img src="https://img.shields.io/badge/-Instagram-191970.svg?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://(https://github.com/marlenebertoldo)/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/GitHub-4169e1?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatomarleneamaralbertoldo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-2c73a2?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://(https://medium.com/@marleneamaralbertoldo)" target="_blank"><img src="https://img.shields.io/badge/-Medium-1f394f?style=for-the-badge&logo=Medium&logoColor=white" target="_blank"></a>
 
