@@ -7,10 +7,8 @@ Meu portifólio de projetos Data Science
 
 <h4>Marlene Apª do Amaral Bertoldo</h4><h4>Professora de português e inglês na escola pública</h4>
 <h4><img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Estudante de  DATA SCIENCE NA PRÁTICA</h4>
-< o melhor curso do Brasil- Super indico>
-
-  <div> 
- <a href="https://escola.sigmoidal.ai/data-science-na-pratica/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <div> 
+ <a href="https://escola.sigmoidal.ai/data-science-na-pratica/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"> o melhor curso do Brasil - Super indico!</a>
 </div>
 
 
