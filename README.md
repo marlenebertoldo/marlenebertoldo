@@ -13,6 +13,13 @@ O conhecimento é uma coisa que não pode ser roubada, apenas compartilhada. Sou
 Minhas credenciais incluem Graduação em Letras Português e Inglês pelo Instituto Federal do Paraná (IFPR). Graduação em Pedagogia pelo Centro Universitário Internacional (UNINTER). Especialização em Metodologia no Ensino de Língua Portuguesa pela Universidade Guairacá- Guarapuava-PR
 
 
+
+<a href="https://instagram.com/bertoldo_marla" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+ <a href="https://(https://github.com/marlenebertoldo)/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/GitHub-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ 
+  <a href = "mailto:contatomarleneamaralbertoldo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 **Links:**
 * [GitHub](https://github.com/marlenebertoldo)
 * [LinkedIn]()
