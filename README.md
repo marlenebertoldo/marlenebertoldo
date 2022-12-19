@@ -1,5 +1,5 @@
 Meu portifólio de projetos Data Science
-[![author](https://img.shields.io/badge/author-marlenebertoldo-crimson.svg)](https://github.com/marlenebertoldo)[![](https://img.shields.io/badge/python-3.7+-darckblue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-steelblue.svg)](http://perso.crans.org/besson/LICENSE.html)   [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://medium.com/@marleneamaralbertoldo)
+[![author](https://img.shields.io/badge/author-marlenebertoldo-crimson.svg)](https://github.com/marlenebertoldo)[![](https://img.shields.io/badge/python-3.7+-darckblue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-steelblue.svg)](http://perso.crans.org/besson/LICENSE.html)   
 
 <p align="center">
   <img src = "https://github.com/marlenebertoldo/projeto_1_data_science/blob/main/sinapse.png">
@@ -24,9 +24,15 @@ Minhas credenciais incluem Graduação em Letras Português e Inglês pelo Insti
    <a href="https://www.linkedin.com/in/marlene-amaral-bertoldo-395b64258/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-4169c1?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
    <a href = "mailto:contatomarleneamaralbertoldo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-2c73a2?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@marleneamaralbertoldo)" target="_blank"><img src="https://img.shields.io/badge/-Medium-1f394f?style=for-the-badge&logo=Medium&logoColor=white" target="_blank">
+  
+  
+  
+  
+  [![PROJETOS welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://medium.com/@marleneamaralbertoldo),
     </div>
   
 
 
-## Projetos:
+
+
 
