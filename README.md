@@ -28,7 +28,7 @@ Minhas credenciais incluem Graduação em Letras Português e Inglês pelo Insti
   
   
   
-  [![PROJETOS welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://medium.com/@marleneamaralbertoldo),
+  [![projetos-welcome](https://img.shields.io/badge/PROJETOS-Welcome-brightgreen.svg?style=flat)](https://medium.com/@marleneamaralbertoldo),
     </div>
   
 
