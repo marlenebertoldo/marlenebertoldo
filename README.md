@@ -5,8 +5,8 @@ Meu portifólio de projetos Data Science
   <img src = "https://github.com/marlenebertoldo/projeto_1_data_science/blob/main/sinapse.png">
 </p>
 
-<h4>Marlene Apª do Amaral Bertoldo</h4>
-<h4>Professora de português e inglês na escola pública;</h4><img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><h4>Estudante de Data Science e Python</h4>
+<h4>Marlene Apª do Amaral Bertoldo</h4><h4>Professora de português e inglês na escola pública</h4>
+<h4><img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Estudante de Data Science e Python</h4>
 
 
 
