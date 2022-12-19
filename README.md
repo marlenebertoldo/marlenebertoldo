@@ -7,6 +7,9 @@ Meu portifólio de projetos Data Science
 
 <h3> Marlene Apª do Amaral Bertoldo</h3>
 <sub>Professora de português e inglês na escola pública, estudante de Data Science e Python</sub>
+<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 O conhecimento é uma coisa que não pode ser roubada, apenas compartilhada. Sou apaixonada pela minha profissão, e pelo uso da tecnologia na educação. Procuro não ensinar com base em uma metodologia de túnel que não proporciona aos discentes uma visão horizontal do todo. Seguindo essa lógica, busco trabalhar a importância da tecnologia e o uso benéfico das ferramentas tecnológicas visando preparar os estudantes para acompanhar a metamorfose social quase diaria cuja estamos inseridos, filtrar informações que venham agregar conhecimento o qual possa contribuir com o pensamento crítico deles de maneira que possam defender um ponto vista com embasamentos de autoridade.
 
