@@ -8,7 +8,7 @@ Meu portifólio de projetos Data Science
 <h4>Marlene Apª do Amaral Bertoldo</h4><h4>Professora de português e inglês na escola pública</h4>
 <h4><img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Estudante de Data Science e Python</h4>
 <div> 
-  <a href="https://www.youtube.com/@CarlosMeloSigmoidal/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a <h2></h2> <href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmFFdjhvaVhNbUh1c1k2MnpNV29MZHlyZ0VCQXxBQ3Jtc0tsUTZZWG1CazBxdmluYWplbTFlMF95bW04MHlBYUY5QlJpM1U1T1E4cWNzYUVZSVpCVzYxeXA2cWR1d3V6RXB3b2pxUjR2ZVgtVTZxeWZnQkx6Y3ZDUnNfVVh3VXp6Y1QyTWVBYU4xdS1xaTM5bW5uSQ&q=https%3A%2F%2Fescola.sigmoidal.ai%2Fdata-science-na-pratica%2F&v=FxqQe4svyzIl/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
 </div>
 
 
