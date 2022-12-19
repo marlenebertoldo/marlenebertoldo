@@ -5,8 +5,8 @@ Meu portifólio de projetos Data Science
   <img src = "https://github.com/marlenebertoldo/projeto_1_data_science/blob/main/sinapse.png">
 </p>
 
-# Marlene Apª do Amaral Bertoldo
-<sub>*Professora de português e inglês na escola pública, estudante de Data Science e Python</sub>
+<h3> Marlene Apª do Amaral Bertoldo</h3>
+<sub>Professora de português e inglês na escola pública, estudante de Data Science e Python</sub>
 
 O conhecimento é uma coisa que não pode ser roubada, apenas compartilhada. Sou apaixonada pela minha profissão, e pelo uso da tecnologia na educação. Procuro não ensinar com base em uma metodologia de túnel que não proporciona aos discentes uma visão horizontal do todo. Seguindo essa lógica, busco trabalhar a importância da tecnologia e o uso benéfico das ferramentas tecnológicas visando preparar os estudantes para acompanhar a metamorfose social quase diaria cuja estamos inseridos, filtrar informações que venham agregar conhecimento o qual possa contribuir com o pensamento crítico deles de maneira que possam defender um ponto vista com embasamentos de autoridade.
 
