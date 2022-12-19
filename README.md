@@ -20,12 +20,6 @@ Minhas credenciais incluem Graduação em Letras Português e Inglês pelo Insti
 <a href="https://medium.com/@marleneamaralbertoldo)" target="_blank"><img src="https://img.shields.io/badge/-Medium-1f394f?style=for-the-badge&logo=Medium&logoColor=white" target="_blank"></a>
 
 
-**Links:**
-* [GitHub](https://github.com/marlenebertoldo)
-* [LinkedIn]()
-* [Medium](https://medium.com/@marleneamaralbertoldo)
-
-
 ## Projetos:
 Sendo elaborados.....
 ---
