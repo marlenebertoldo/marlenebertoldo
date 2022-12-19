@@ -6,7 +6,7 @@ Meu portifólio de projetos Data Science
 </p>
 
 <h4>Marlene Apª do Amaral Bertoldo</h4><h4>Professora de português e inglês na escola pública</h4>
-<h4><img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Estudante de Data Science e Python  By    <a href="https://https://cursos.sigmoidal.ai/)" target="_blank"><img src="https://img.shields.io/badge/-https://cursos.sigmoidal.ai/SIGMOIDAL-1f394f?style=for-the-badge&logo=Sigmoidal&logoColor=white" target="_blank"></a></h4> 
+<h4><img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Estudante de Data Science e Python  By    <a href="https://cursos.sigmoidal.ai/)" target="_blank"><img src="https://img.shields.io/badge/-https://cursos.sigmoidal.ai/SIGMOIDAL-1f394f?style=for-the-badge&logo=Sigmoidal&logoColor=white" target="_blank"></a></h4> 
 
                           
 
