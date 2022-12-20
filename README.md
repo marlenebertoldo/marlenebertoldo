@@ -27,10 +27,15 @@ Minhas credenciais incluem Graduação em Letras Português e Inglês pelo Insti
  </div>
     
     
-    
+   
   
-  <h1>PROJETOS</h1>
   
+  
+ 
+
+  <p> <h1><b>PROJETOS</b> </h1></p>
+  
+ 
     
   [![FlashcardsTec-welcome](https://img.shields.io/badge/FlashcardsTec-Welcome-brightgreen.svg?style=flat)](https://github.com/marlenebertoldo/FlashCardsTech.git)
   Aprenda de forma rápida simples e divertida o vocabulário técnico.
