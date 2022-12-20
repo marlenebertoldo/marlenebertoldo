@@ -32,7 +32,7 @@ Minhas credenciais incluem Graduação em Letras Português e Inglês pelo Insti
   <h1>PROJETOS</h1>
   
     
-  [![FlashcardsTec-welcome](https://img.shields.io/badge/PROJETOS-Welcome-brightgreen.svg?style=flat)](https://github.com/marlenebertoldo/FlashCardsTech.git)
+  [![FlashcardsTec-welcome](https://img.shields.io/badge/FlashcardsTec-Welcome-brightgreen.svg?style=flat)](https://github.com/marlenebertoldo/FlashCardsTech.git)
   Aprenda de forma rápida simples e divertida o vocabulário técnico.
   No cartão você encontrará palavras e expressões que irá utilizar no seu dia a dia como dev. Aproveite para testar seus conhecimentos e fixar o significado.
   
