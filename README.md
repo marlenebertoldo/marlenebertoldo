@@ -25,11 +25,14 @@ Minhas credenciais incluem Graduação em Letras Português e Inglês pelo Insti
    <a href = "mailto:contatomarleneamaralbertoldo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-2c73a2?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@marleneamaralbertoldo)" target="_blank"><img src="https://img.shields.io/badge/-Medium-1f394f?style=for-the-badge&logo=Medium&logoColor=white" target="_blank">
     
-  
-  
-  Aprenda de forma rápida simples e divertida o vocabulário técnico.
-No cartão você encontrará palavras e expressões que irá utilizar no seu dia a dia como dev. Aproveite para testar seus conhecimentos e fixar o significado.
+    
+    
+   <PROJETOS>
+    
   [![projetos-welcome](https://img.shields.io/badge/PROJETOS-Welcome-brightgreen.svg?style=flat)](https://github.com/marlenebertoldo/FlashCardsTech.git)
+  Aprenda de forma rápida simples e divertida o vocabulário técnico.
+  No cartão você encontrará palavras e expressões que irá utilizar no seu dia a dia como dev. Aproveite para testar seus conhecimentos e fixar o significado.
+  
    
    </div>
   
