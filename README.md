@@ -32,6 +32,8 @@ Minhas credenciais incluem Graduação em Letras Português e Inglês pelo Insti
   [![projetos-welcome](https://img.shields.io/badge/PROJETOS-Welcome-brightgreen.svg?style=flat)](https://medium.com/@marleneamaralbertoldo)
     </div>
   
+Aprenda de forma rápida simples e divertida o vocabulário técnico.
+No cartão você encontrará palavras e expressões que irá utilizar no seu dia a dia como dev. Aproveite para testar seus conhecimentos e fixar o significado.https://github.com/marlenebertoldo/FlashCardsTech.git
 
 
 
